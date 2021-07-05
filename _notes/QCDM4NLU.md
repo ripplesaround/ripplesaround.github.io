@@ -9,6 +9,7 @@ paperurl: 'http://ripplesaround.github.io/files/QCDM4NLU.pdf'
 ---
 BIT International Summer Course 2021.
 
+
 Interdisciplinary across quantum mechanics, cognitive and decision sciences, artificial intelligence, information retrieval and natural language processing.
 
 [Download note here](http://ripplesaround.github.io/files/QCDM4NLU.pdf)
